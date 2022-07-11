@@ -1,6 +1,6 @@
 # Rocket Pricing Table
 > @rocketseat challenge for front-end beginners: Landing page layout development like Pricing Table.
-
+![displayPrint](https://user-images.githubusercontent.com/105434742/178340036-f8b927ca-8e97-4220-a7ed-ffd8f71b654f.png)
 
 # Links
 <a href="https://app.rocketseat.com.br/discover/challenges/rocket-nfts">Challenge</a>
